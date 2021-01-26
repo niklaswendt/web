@@ -1,0 +1,4 @@
+baseURL = "https://nwendt.me/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "PaperMod"
